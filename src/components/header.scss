@@ -1,0 +1,18 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+.menuItems-box {
+    justify-content: flex-end;
+}
+.pageItem {
+    color: blue !important;
+    .pageName {
+        margin-left:10px;
+    }
+}
+.appbar-container {
+    background-color: white;
+    color: blue;
+}
+
