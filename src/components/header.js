@@ -63,7 +63,7 @@ const Header = () => {
                 textDecoration: 'none',
                 }}
             >
-                LOGO
+                V Cube Infogain
             </Typography>
           </div>
 
@@ -122,7 +122,7 @@ const Header = () => {
                 textDecoration: 'none',
                 }}
             >
-                LOGO
+                V Cube Infogain
             </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }} className="menuItems-box">
             {pages.map((page) => (

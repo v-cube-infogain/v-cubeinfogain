@@ -1,0 +1,35 @@
+.baner-div {
+    background-image: url('../assets/images/Baner_Image.png');
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    .baner-header {
+        position: absolute;
+        top: 30%;
+        left: 11%;
+        background:white;
+        padding: 20px;
+        border-radius: 10px;
+        width: 70%;
+        opacity: 0.9;
+        h1 {
+            margin: 0px;
+            padding-bottom: 10px;
+            font-style: italic;
+            font-size: 42px;
+            color: cornflowerblue;
+            
+        }
+        .baner-sub2 {
+            width: 85%;
+            margin-top: 25px;
+        }
+        .baner-sub1, .baner-sub2 {
+            color: cornflowerblue;
+            font-style: italic;
+        }
+    }
+    
+}
